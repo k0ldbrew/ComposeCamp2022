@@ -103,6 +103,6 @@ dependencies {
     androidTestImplementation "androidx.test.uiautomator:uiautomator:$rootProject.uiAutomatorVersion"
     androidTestImplementation "androidx.work:work-testing:$rootProject.workVersion"
     androidTestImplementation "com.google.truth:truth:$rootProject.truthVersion"
-    androidTestImplementation "androidx.compose.ui:ui-test-junit4:$rootProject.composeVersion"
+    androidTestImplementation "androidx.compose.ui:ui-test-junit4:1.4.0-alpha03"
     testImplementation "junit:junit:$rootProject.junitVersion"
 }
